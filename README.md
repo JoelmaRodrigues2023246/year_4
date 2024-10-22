@@ -17,8 +17,6 @@ This repository is organized into three main modules that require code implement
 ### Description
 This module covers Artificial Intelligence (AI) techniques applied to real-world problems, with a focus on machine learning, neural networks, and genetic algorithms.
 
-### Content
-
 ---
 
 ## Data Preparation & Exploration
@@ -27,8 +25,6 @@ This module covers Artificial Intelligence (AI) techniques applied to real-world
 ### Description
 This module covers data preparation and exploration processes, addressing techniques such as data cleaning, data transformation, and exploratory data analysis.
 
-### Content
-
 ---
 
 ## Data Visualisation & Communication
@@ -36,8 +32,3 @@ This module covers data preparation and exploration processes, addressing techni
 
 ### Description
 This module focuses on best practices for data visualization and how to communicate insights from large datasets.
-
-### Content
-
-
----
